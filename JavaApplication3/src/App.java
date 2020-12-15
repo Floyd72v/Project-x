@@ -11,9 +11,10 @@
 public class App {
 
     public App() {
+        System.out.println("hola mundo");
     }
     
-    System.out.println("hola mundo");
+    
     
     
 }
